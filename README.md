@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ##
 
-[![Josué Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=josuepereira&count_private=true&theme=merko)](https://github.com/josuepereira/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuepereira&layout=compact&count_private=true&theme=merko&include=geosimples)](https://github.com/josuepereira/github-readme-stats)
-
+[![Josué Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=josuepereira&count_private=true&show_icons=true&theme=merko)](https://github.com/josuepereira/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuepereira&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+-->
