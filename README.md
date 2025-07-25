@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 :rocket: Trabalho atualmente na Geosimples - Empresa voltada no desenvolvimento de software de geoprocessamento para prefeituras.
 
 ##
-
-[![Josué Pereira GitHub stats](https://github-readme-stats.vercel.app/api?username=josuepereira&count_private=true&show_icons=true&theme=merko)](https://github.com/josuepereira/github-readme-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuepereira&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
--->
